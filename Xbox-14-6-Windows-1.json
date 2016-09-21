@@ -8,33 +8,33 @@
     ],
 
     "buttons": [
-        { "index": "0", "name": "A" },
-        { "index": "1", "name": "B" },
-        { "index": "2", "name": "X" },
-        { "index": "3", "name": "Y" },
+        { "index": 0, "name": "A" },
+        { "index": 1, "name": "B" },
+        { "index": 2, "name": "X" },
+        { "index": 3, "name": "Y" },
 
-        { "index": "4", "name": "LB" },
-        { "index": "5", "name": "RB" },
+        { "index": 4, "name": "LB" },
+        { "index": 5, "name": "RB" },
 
-        { "index": "6", "name": "BACK" },
-        { "index": "7", "name": "START" },
+        { "index": 6, "name": "BACK" },
+        { "index": 7, "name": "START" },
 
-        { "index": "8", "name": "LS" },
-        { "index": "9", "name": "RS" },
+        { "index": 8, "name": "LS" },
+        { "index": 9, "name": "RS" },
 
-        { "index": "10", "name": "DPAD_UP" },
-        { "index": "11", "name": "DPAD_RIGHT" },
-        { "index": "12", "name": "DPAD_DOWN" },
-        { "index": "13", "name": "DPAD_LEFT" }
+        { "index": 10, "name": "DPAD_UP" },
+        { "index": 11, "name": "DPAD_RIGHT" },
+        { "index": 12, "name": "DPAD_DOWN" },
+        { "index": 13, "name": "DPAD_LEFT" }
     ],
 
     "axes": [
-        { "index": "0", "name": "LS_X" },
-        { "index": "1", "name": "LS_Y" },
-        { "index": "2", "name": "RS_X" },
-        { "index": "3", "name": "RS_Y" },
+        { "index": 0, "name": "LS_X" },
+        { "index": 1, "name": "LS_Y" },
+        { "index": 2, "name": "RS_X" },
+        { "index": 3, "name": "RS_Y" },
 
-        { "index": "4", "name": "LTRIGGER" },
-        { "index": "5", "name": "RTRIGGER" }
+        { "index": 4, "name": "LTRIGGER" },
+        { "index": 5, "name": "RTRIGGER" }
     ]
 }
