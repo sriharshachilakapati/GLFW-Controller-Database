@@ -1,17 +1,18 @@
 {
-    "name": "SPEEDLINK STRIKE Gamepad",
-    "os": "Windows",
+    "names": [
+        "USB Joystick",
+        "SPEEDLINK STRIKE Gamepad"
+    ],
 
-    "layout": {
-        "buttons": "16",
-        "axes": "4"
-    },
+    "keywords": [
+        "Generic"
+    ],
 
     "buttons": [
-        { "index": "0", "name": "Y" },
-        { "index": "1", "name": "B" },
-        { "index": "2", "name": "A" },
-        { "index": "3", "name": "X" },
+        { "index": "0", "name": "TRIANGLE" },
+        { "index": "1", "name": "CIRCLE" },
+        { "index": "2", "name": "CROSS" },
+        { "index": "3", "name": "SQUARE" },
 
         { "index": "4", "name": "L1" },
         { "index": "5", "name": "R1" },
