@@ -1,0 +1,42 @@
+{
+    "names": [
+        "Redgear"
+    ],
+
+    "keywords": [
+        "Redgear"
+    ],
+
+    "buttons": [
+        { "index": 2, "name": "A" },
+        { "index": 1, "name": "B" },
+        { "index": 3, "name": "X" },
+        { "index": 0, "name": "Y" },
+
+        { "index": 4, "name": "LB" },
+        { "index": 5, "name": "RB" },
+
+        { "index": 6, "name": "LTRIGGER" },
+        { "index": 7, "name": "RTRIGGER" },
+
+        { "index": 8, "name": "BACK" },
+        { "index": 9, "name": "START" },
+
+        { "index": 10, "name": "LS" },
+        { "index": 11, "name": "RS" },
+
+        { "index": 12, "name": "HOME" },
+
+        { "index": 13, "name": "DPAD_UP" },
+        { "index": 14, "name": "DPAD_RIGHT" },
+        { "index": 15, "name": "DPAD_DOWN" },
+        { "index": 16, "name": "DPAD_LEFT" }
+    ],
+
+    "axes": [
+        { "index": 0, "name": "LS_X" },
+        { "index": 1, "name": "LS_Y" },
+        { "index": 2, "name": "RS_X" },
+        { "index": 3, "name": "RS_Y" }
+    ]
+}
