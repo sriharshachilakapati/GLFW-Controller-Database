@@ -1,0 +1,43 @@
+{
+    "names": [
+        "Xbox 360 Controller",
+        "Wireless Xbox 360 Controller",
+        "Xbox 360 Wired Controller"
+    ],
+
+    "keywords": [
+        "Xbox", "360", "Controller"
+    ],
+
+    "buttons": [
+        { "index": 0, "name": "DPAD_UP" },
+        { "index": 1, "name": "DPAD_DOWN" },
+        { "index": 2, "name": "DPAD_LEFT" },
+        { "index": 3, "name": "DPAD_RIGHT" },
+
+        { "index": 4, "name": "START" },
+        { "index": 5, "name": "BACK" },
+
+        { "index": 6, "name": "LS" },
+        { "index": 7, "name": "RS" },
+
+        { "index": 8, "name": "LB" },
+        { "index": 9, "name": "RB" },
+
+        { "index": 10, "name": "GUIDE" },
+        { "index": 11, "name": "A" },
+        { "index": 12, "name": "B" },
+        { "index": 13, "name": "X" },
+        { "index": 14, "name": "Y" }
+    ],
+
+    "axes": [
+        { "index": 0, "name": "LS_X" },
+        { "index": 1, "name": "LS_Y" },
+        { "index": 2, "name": "RS_X" },
+        { "index": 3, "name": "RS_Y" },
+
+        { "index": 4, "name": "LTRIGGER" },
+        { "index": 5, "name": "RTRIGGER" }
+    ]
+}
